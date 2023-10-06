@@ -101,5 +101,31 @@
 				}
 			}
 		}
+
+		.social-media {
+			
+			a {
+				display: inline-block;
+				font-size: 60px;
+				margin: 10px 10px 0 0;
+				transition: opacity 100ms ease;
+
+				&:hover {
+					opacity: 0.8;
+				}
+
+				&:active {
+					opacity: 0.6;
+				}
+			}
+		}
+
+		.donate-btn {
+			display: inline-block;
+			padding: 5px 10px;
+			background-color: $white;
+			color: $black;
+			margin-top: 10px;
+		}
 	}
 }

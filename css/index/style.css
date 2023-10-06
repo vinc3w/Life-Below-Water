@@ -87,4 +87,23 @@
   .sub-main section .news-container .box {
     width: 100%;
   }
+}
+.sub-main section .social-media a {
+  display: inline-block;
+  font-size: 60px;
+  margin: 10px 10px 0 0;
+  transition: opacity 100ms ease;
+}
+.sub-main section .social-media a:hover {
+  opacity: 0.8;
+}
+.sub-main section .social-media a:active {
+  opacity: 0.6;
+}
+.sub-main section .donate-btn {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #FAFAFA;
+  color: #001E24;
+  margin-top: 10px;
 }/*# sourceMappingURL=style.css.map */
