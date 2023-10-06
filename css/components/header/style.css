@@ -1,0 +1,94 @@
+header {
+  background: url("/res/images/header-bg.png") no-repeat bottom/cover;
+  padding: 0 20px;
+}
+header .sub-header {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+header .sub-header .top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 170px;
+}
+header .sub-header .top .logo {
+  width: 100%;
+}
+header .sub-header .top .input {
+  text-align: right;
+  margin-left: 70px;
+}
+header .sub-header .top .input form {
+  display: flex;
+  width: 250px;
+}
+header .sub-header .top .input form input {
+  padding: 10px;
+  height: 35px;
+  width: 100%;
+  border-radius: 5px 0 0 5px;
+}
+header .sub-header .top .input form button[type=submit] {
+  height: 35px;
+  width: 35px;
+  border-radius: 0 5px 5px 0;
+  background-color: #577D86;
+  color: #FAFAFA;
+  cursor: pointer;
+  transition: background-color 100ms ease;
+}
+header .sub-header .top .input form button[type=submit]:hover {
+  background-color: #5f8791;
+}
+header .sub-header .top .input form button[type=submit]:active {
+  background-color: #67929c;
+}
+header .sub-header .top .input a {
+  display: inline-block;
+  margin-top: 5px;
+  font-size: 13px;
+}
+@media (max-width: 700px) {
+  header .sub-header .top {
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+  }
+  header .sub-header .top .logo {
+    margin-top: 10px;
+  }
+  header .sub-header .top .input {
+    margin: 10px 0;
+    width: 100%;
+  }
+  header .sub-header .top .input form {
+    width: 100%;
+  }
+}
+header .sub-header .bottom {
+  background-color: #001E24;
+  overflow-x: scroll;
+}
+header .sub-header .bottom ul {
+  display: flex;
+}
+header .sub-header .bottom ul li {
+  list-style-type: none;
+  border-right: 1px solid #FAFAFA;
+}
+header .sub-header .bottom ul li a {
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 13px;
+  white-space: nowrap;
+  transition: background-color 100ms ease;
+}
+header .sub-header .bottom ul li a:hover {
+  background-color: #022b33;
+}
+header .sub-header .bottom ul li a:active {
+  background-color: #033641;
+}/*# sourceMappingURL=style.css.map */

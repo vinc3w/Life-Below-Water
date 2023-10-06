@@ -1,0 +1,83 @@
+@import "./../../variables";
+
+.sub-main {
+	
+	section {
+
+		.heading {
+			font-weight: bold;
+			font-size: 30px;
+			display: block;
+			margin: 20px 0
+		}
+		
+		form {
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+
+			input {
+				padding: 10px;
+				width: 100%;
+				max-width: 400px;
+				border-radius: 5px;
+			}
+
+			button[type=submit] {
+				padding: 10px 30px;
+				border-radius: 5px;
+				background-color: $green;
+				color: $white;
+				margin-top: 10px;
+			}
+		}
+
+		.container {
+			display: flex;
+			gap: 20px;
+			flex-wrap: wrap;
+
+			.box {
+				background-color: $white;
+				color: $black;
+				width: calc(25% - 15px);
+				height: 280px;
+
+				.image {
+					background-repeat: no-repeat !important;
+					background-size: cover !important;
+					background-position: center !important;
+					height: 150px;
+				}
+
+				.text {
+					padding: 10px;
+					display: flex;
+					justify-content: space-between;
+					flex-direction: column;
+					height: 130px;
+
+					.title {
+						display: -webkit-box;
+						-webkit-box-orient: vertical;
+						overflow: hidden;
+						text-overflow: ellipsis;
+						-webkit-line-clamp: 4;
+					}
+
+					.date {
+						font-size: 12px;
+					}
+				}
+
+				@media (max-width: 750px) {
+					width: calc(33.3333% - 13.333px);
+				}
+
+				@media (max-width: 500px) {
+					width: calc(50% - 10px);
+				}
+			}
+		}
+	}
+}

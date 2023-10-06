@@ -1,0 +1,68 @@
+.sub-main section .heading {
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  margin: 20px 0;
+}
+.sub-main section form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.sub-main section form input {
+  padding: 10px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 5px;
+}
+.sub-main section form button[type=submit] {
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #577D86;
+  color: #FAFAFA;
+  margin-top: 10px;
+}
+.sub-main section .container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.sub-main section .container .box {
+  background-color: #FAFAFA;
+  color: #001E24;
+  width: calc(25% - 15px);
+  height: 280px;
+}
+.sub-main section .container .box .image {
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+  height: 150px;
+}
+.sub-main section .container .box .text {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 130px;
+}
+.sub-main section .container .box .text .title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+}
+.sub-main section .container .box .text .date {
+  font-size: 12px;
+}
+@media (max-width: 750px) {
+  .sub-main section .container .box {
+    width: calc(33.3333% - 13.333px);
+  }
+}
+@media (max-width: 500px) {
+  .sub-main section .container .box {
+    width: calc(50% - 10px);
+  }
+}/*# sourceMappingURL=style.css.map */

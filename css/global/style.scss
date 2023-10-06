@@ -1,0 +1,39 @@
+@import "./../variables";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: inter;
+	src: url("/res/fonts/Inter-Regular.ttf");
+}
+
+body {
+	color: $white;
+	background-color: $black;
+	font-family: inter, sans-serif;
+}
+
+main {
+	background: url("/res/images/body-bg.png") no-repeat top / 100% auto;
+	padding: 0 20px;
+	overflow: auto;
+	
+	.sub-main {
+		max-width: 1000px;
+		margin: 20px auto 40px auto;
+	}
+}
+
+a {
+	color: $white;
+	text-decoration: none;
+}
+	
+input, button {
+	border: none;
+	outline: none;
+}

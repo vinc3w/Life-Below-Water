@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#0a97D9">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+	<link rel="stylesheet" href="/css/global/style.css">
+	<link rel="stylesheet" href="/css/views/news/style.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="/res/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/res/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/res/icons/favicon-16x16.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/res/icons/android-chrome-192x192.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<title>Life Below Water | News</title>
+</head>
+<body>
+	<header-component></header-component>
+	<main>
+		<div class="sub-main">
+			<section>
+				<span class="heading">Filter</span>
+				<form action="/views/news.html">
+					<input type="text" name="news" placeholder="Search news or updates">
+					<button type="submit">search</button>
+				</form>
+			</section>
+			<section>
+				<span class="heading">News</span>
+				<div class="container" id="news-container"></div>
+			</section>
+			<section>
+				<span class="heading">Updates</span>
+				<div class="container" id="updates-container"></div>
+			</section>
+		</div>
+	</main>
+	<footer-component></footer-component>
+</body>
+<script src="/components/header.js" type="module"></script>
+<script src="/components/footer.js" type="module"></script>
+<script src="/js/news.js" type="module"></script>
+</html>

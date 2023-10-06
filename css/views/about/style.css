@@ -1,0 +1,67 @@
+.sub-main section {
+  margin-bottom: 40px;
+}
+.sub-main section .heading {
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  margin: 20px 0;
+}
+.sub-main section ol li, .sub-main section ul li {
+  list-style-position: inside;
+}
+.sub-main section .achievements {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+.sub-main section .achievements .box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  text-align: center;
+  aspect-ratio: 1/1;
+  width: calc(33.333% - 13.333px);
+  border: 5px solid #FAFAFA;
+  border-radius: 10px;
+}
+@media (max-width: 600px) {
+  .sub-main section .achievements {
+    flex-direction: column;
+  }
+  .sub-main section .achievements .box {
+    aspect-ratio: initial;
+    width: 100%;
+    height: 200px;
+  }
+}
+.sub-main section .campaigns {
+  display: flex;
+  gap: 20px;
+}
+.sub-main section .campaigns .box {
+  background-color: #FAFAFA;
+  color: #001E24;
+  height: 250px;
+  width: calc(33.333% - 13.333px);
+}
+.sub-main section .campaigns .box .image {
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+  height: 170px;
+  margin-bottom: 10px;
+}
+.sub-main section .campaigns .box .title {
+  margin-left: 10px;
+}
+@media (max-width: 670px) {
+  .sub-main section .campaigns {
+    flex-direction: column;
+  }
+  .sub-main section .campaigns .box {
+    width: 100%;
+  }
+}/*# sourceMappingURL=style.css.map */

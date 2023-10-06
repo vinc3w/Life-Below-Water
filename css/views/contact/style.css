@@ -1,0 +1,24 @@
+.sub-main section .heading {
+  font-weight: bold;
+  font-size: 35px;
+  display: block;
+  margin: 20px 0;
+}
+.sub-main section .sub-heading {
+  font-weight: bold;
+  font-size: 20px;
+  display: block;
+  margin: 20px 0 10px 0;
+}
+.sub-main section .social-media a {
+  display: inline-block;
+  font-size: 25px;
+  margin: 10px 10px 0 0;
+  transition: opacity 100ms ease;
+}
+.sub-main section .social-media a:hover {
+  opacity: 0.8;
+}
+.sub-main section .social-media a:active {
+  opacity: 0.6;
+}/*# sourceMappingURL=style.css.map */

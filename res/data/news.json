@@ -1,0 +1,106 @@
+{
+	"news": [
+		{
+			"title": "James Webb Space Telescope captures stunning images of the Carina Nebula",
+			"date": "05/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "China launches new space station module",
+			"date": "05/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that climate change is making hurricanes more intense",
+			"date": "04/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new vaccine that protects against all known strains of malaria",
+			"date": "04/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "James Webb Space Telescope captures first direct image of an exoplanet",
+			"date": "03/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of battery that can charge in minutes and last for days",
+			"date": "03/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that regular exercise can help to prevent Alzheimer's disease",
+			"date": "02/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of solar cell that is more efficient and cheaper than previous designs",
+			"date": "01/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that the universe is expanding faster than previously thought",
+			"date": "30/September/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of cancer treatment that targets the tumor's immune system",
+			"date": "29/September/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		}
+	],
+	"updates": [
+		{
+			"title": "James Webb Space Telescope captures stunning images of the Carina Nebula",
+			"date": "05/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "China launches new space station module",
+			"date": "05/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that climate change is making hurricanes more intense",
+			"date": "04/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new vaccine that protects against all known strains of malaria",
+			"date": "04/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "James Webb Space Telescope captures first direct image of an exoplanet",
+			"date": "03/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of battery that can charge in minutes and last for days",
+			"date": "03/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that regular exercise can help to prevent Alzheimer's disease",
+			"date": "02/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of solar cell that is more efficient and cheaper than previous designs",
+			"date": "01/October/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "New study finds that the universe is expanding faster than previously thought",
+			"date": "30/September/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		},
+		{
+			"title": "Scientists develop new type of cancer treatment that targets the tumor's immune system",
+			"date": "29/September/2023",
+			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+		}
+	]
+}

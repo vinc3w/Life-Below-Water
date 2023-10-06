@@ -1,0 +1,116 @@
+@import "./../../variables";
+
+.sub-main {
+
+	.banner {
+		width: 100%;
+	}
+
+	.bottom {
+		margin-top: 20px;
+		display: flex;
+
+		p.left {
+			width: 45%;
+			margin-right: 10px;
+		}
+
+		.content {
+			width: 55%;
+	
+			.submit-btn, .select-btn {
+				border: 2px solid $white;
+				padding: 15px;
+				text-align: center;
+				border-radius: 5px;
+				margin-top: 10px;
+				cursor: pointer;
+				transition: all 50ms ease;
+
+				&:hover {
+					background-color: $white;
+					color: $black;
+				}
+
+				&.selected {
+					background-color: $white;
+					color: $black;
+				}
+			}
+
+			section {
+				margin-bottom: 20px;
+
+				.heading {
+					font-size: 25px;
+					font-weight: bold;
+					margin-bottom: 20px;
+				}
+
+				.input {
+					display: flex;
+					margin-top: 10px;
+
+					.dollar {
+						background-color: transparent;
+						color: $white;
+						height: 53px;
+						width: 30px;
+						display: grid;
+						place-items: center;
+						border-radius: 5px 0 0 5px;
+						border: 2px solid $white;
+						border-right: none;
+						transition: all 500ms ease;
+					}
+
+					input {
+						background-color: transparent;
+						color: $white;
+						border-radius: 0 5px 5px 0;
+						border: 2px solid $white;
+						padding: 15px 10px;
+						width: 100%;
+						height: 53px;
+					}
+
+					&.selected {
+
+						.dollar {
+							background-color: $white;
+							color: $black;
+						}
+					}
+				}
+
+				&:last-of-type .btn-container {
+					display: flex;
+
+					.select-btn {
+						width: 100%;
+
+						&:first-of-type {
+							margin-right: 5px;
+						}
+
+						&:last-of-type {
+							margin-left: 5px;
+						}
+					}
+				}
+			}
+		}
+
+		@media (max-width: 500px) {
+			flex-direction: column;
+
+			p.left, .right {
+				width: 100%;
+			}
+
+			p.left {
+				margin-bottom: 20px;
+			}
+		}
+	}
+}
