@@ -89,4 +89,4 @@ class Footer extends HTMLElement {
 	}
 }
 
-customElements.define("footer-component", Footer, { extends: "footer" });
+customElements.define("footer-component", Footer);
