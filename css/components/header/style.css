@@ -70,7 +70,7 @@ header .sub-header .top .input a {
 }
 header .sub-header .bottom {
   background-color: #001E24;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 header .sub-header .bottom ul {
   display: flex;
