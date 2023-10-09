@@ -3,6 +3,14 @@
 .sub-main {
 	
 	section {
+		
+		table {
+			text-align: left;
+
+			.heading {
+				margin:0;
+			}
+		}
 
 		.heading {
 			font-weight: bold;

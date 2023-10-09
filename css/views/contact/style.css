@@ -1,3 +1,9 @@
+.sub-main section table {
+  text-align: left;
+}
+.sub-main section table .heading {
+  margin: 0;
+}
 .sub-main section .heading {
   font-weight: bold;
   font-size: 35px;
