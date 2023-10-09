@@ -13,7 +13,7 @@ class Header extends HTMLElement {
 			<header>
 				<div class="sub-header">
 					<div class="top">
-						<img class="logo" src="/res/images/logo.png" alt="" />
+						<a href="/"><img class="logo" src="/res/images/logo.png" alt="" /></a>
 						<div class="input">
 							<form action="/views/news.html">
 								<input type="text" name="news" placeholder="Search news..."/>
