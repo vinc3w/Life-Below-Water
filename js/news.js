@@ -15,7 +15,7 @@ function insertBoxes(news, updates, filter) {
 			/*html*/`
 				<div class="box">
 					<div class="image" style="background: url('${n.image_link}')"></div>
-					<div class="text">
+					<div class="text" title="${n.title}">
 						<p class="title">${n.title}</p>
 						<p class="date">${n.date}</p>
 					</div>
@@ -31,7 +31,7 @@ function insertBoxes(news, updates, filter) {
 			/*html*/`
 				<div class="box">
 					<div class="image" style="background: url('${u.image_link}')"></div>
-					<div class="text">
+					<div class="text" title="${u.title}">
 						<p class="title">${u.title}</p>
 						<p class="date">${u.date}</p>
 					</div>

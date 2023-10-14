@@ -1,106 +1,36 @@
 {
 	"news": [
 		{
-			"title": "James Webb Space Telescope captures stunning images of the Carina Nebula",
-			"date": "05/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "Governments must seek win-win synergies by tackling climate and sustainable development crises together, urges expert group report",
+			"date": "13/September/2023",
+			"image_link": "https://sdgs.un.org/sites/default/files/styles/sdgs_news_thumbnail/public/news/screen_shot_2023-09-13_at_5.54.22_pm.png?itok=e1nlOSzr"
 		},
 		{
-			"title": "China launches new space station module",
-			"date": "05/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "Expert Group to Prepare Report Analysing Climate and SDG Synergies, Aiming to Maximize Action Impact",
+			"date": "15/May/2023",
+			"image_link": "https://sdgs.un.org/sites/default/files/styles/sdgs_news_thumbnail/public/news/progetto_senza_titolo_3_8.51.11_pm.png?itok=wHo4LI9g"
 		},
 		{
-			"title": "New study finds that climate change is making hurricanes more intense",
-			"date": "04/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "Video: Ocean 20: Building a Sustainable Blue Economy",
+			"date": "19/January/2023",
+			"image_link": "https://sdgs.un.org/sites/default/files/styles/sdgs_news_thumbnail/public/news/seo_thomson.png?itok=SF0_L7k2"
 		},
 		{
-			"title": "Scientists develop new vaccine that protects against all known strains of malaria",
-			"date": "04/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "Save the date - COP27 Side Event: Ocean Funding, Egypt, 09 November 2022",
+			"date": "2/November/2022",
+			"image_link": "https://sdgs.un.org/sites/default/files/styles/sdgs_news_thumbnail/public/news/save_the_date_ocean_funding.png?itok=PqWYUCM6"
 		},
 		{
-			"title": "James Webb Space Telescope captures first direct image of an exoplanet",
-			"date": "03/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of battery that can charge in minutes and last for days",
-			"date": "03/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "New study finds that regular exercise can help to prevent Alzheimer's disease",
-			"date": "02/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of solar cell that is more efficient and cheaper than previous designs",
-			"date": "01/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "New study finds that the universe is expanding faster than previously thought",
-			"date": "30/September/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of cancer treatment that targets the tumor's immune system",
-			"date": "29/September/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "UNFCCC SBSTA 56, Ocean and Climate Change Dialogue 2022",
+			"date": "15/Jun/2022",
+			"image_link": "https://sdgs.un.org/themes/custom/porto/assets/default-news350x170.png"
 		}
 	],
 	"updates": [
 		{
-			"title": "James Webb Space Telescope captures stunning images of the Carina Nebula",
-			"date": "05/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "China launches new space station module",
-			"date": "05/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "New study finds that climate change is making hurricanes more intense",
-			"date": "04/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new vaccine that protects against all known strains of malaria",
-			"date": "04/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "James Webb Space Telescope captures first direct image of an exoplanet",
-			"date": "03/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of battery that can charge in minutes and last for days",
-			"date": "03/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "New study finds that regular exercise can help to prevent Alzheimer's disease",
-			"date": "02/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of solar cell that is more efficient and cheaper than previous designs",
-			"date": "01/October/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "New study finds that the universe is expanding faster than previously thought",
-			"date": "30/September/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
-		},
-		{
-			"title": "Scientists develop new type of cancer treatment that targets the tumor's immune system",
-			"date": "29/September/2023",
-			"image_link": "https://www.britishcouncil.org/sites/default/files/life_below_water_0.jpg"
+			"title": "We have added a donation page so that supporters can support us in assisting in the SDG goal 14!",
+			"date": "14/October/2023",
+			"image_link": "https://chronicle.brightspotcdn.com/02/34/d684cf4a4890a68a69cc37ec283d/0830hayneszoomdonatebutton-istock-1208011829.jpg"
 		}
 	]
 }
