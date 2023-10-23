@@ -19,7 +19,7 @@ class Header extends HTMLElement {
 								<input type="text" name="news" placeholder="Search news..."/>
 								<button type="submit"><span class="fa fa-search"></span></button>
 							</form>
-							<a href="/views/contact-us.html">Contact Us?</a>
+							<a href="/views/contact.html">Contact Us?</a>
 						</div>
 					</div>
 					<nav class="bottom nav">
