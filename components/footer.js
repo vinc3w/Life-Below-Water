@@ -46,6 +46,11 @@ class Footer extends HTMLElement {
 										<span class="fa fa-id-card"></span>Contact
 									</a>
 								</li>
+								<li>
+									<a href="/views/references.html">
+										<span class="fa fa-asterisk"></span>References
+									</a>
+								</li>
 							</ul>
 						</section>
 						<section>
